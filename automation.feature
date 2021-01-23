@@ -16,7 +16,7 @@ Scenario: User logs into application and searches an item add the item to cart
 	Then item gets added to the cart with price showing 
 	And  item price should show in the totl price 
 	
-	@smoke
+	
 
 Scenario Outline: user logs into application with multiple set of data 
 
